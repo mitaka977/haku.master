@@ -1,0 +1,33 @@
+.user-dropdown {
+    display: block;
+    position: relative;
+    margin-top: 8px;
+}
+
+.dropdown span {
+    color: #9d9d9d;
+}
+
+.dropdown-menu {
+    background-color: #222222;
+    width: 100%;
+
+}
+
+.dropdown-menu li {
+    text-align: center;
+}
+
+.dropdown-menu li a {
+    color: #9d9d9d;
+}
+
+.dropdown-menu > li > a:hover {
+    color: white;
+    background-color: #222222;
+}
+
+#dropdownMenu1 {
+    background-color: #222222;
+    border-color: #9d9d9d;
+}
